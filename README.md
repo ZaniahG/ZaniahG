@@ -1,6 +1,5 @@
-<h1 align-text:center Hi, I'm Zaniah 👩🏽‍💻></h1>
 
-<div>
+ <h1>Hi, I'm Zaniah 👩🏽‍💻</h1>
 
 
 ![ZaniahG Minimal Print Banner](https://user-images.githubusercontent.com/75864748/167266691-702a2494-4e86-4398-af26-a8357e52180b.png)
